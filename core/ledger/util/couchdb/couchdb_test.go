@@ -23,10 +23,10 @@ import (
 	"testing"
 	"unicode/utf8"
 
-	"github.com/spf13/viper"
 	"github.com/hyperledger/fabric/common/ledger/testutil"
 	"github.com/hyperledger/fabric/core/ledger/ledgerconfig"
 	ledgertestutil "github.com/hyperledger/fabric/core/ledger/testutil"
+	"github.com/spf13/viper"
 )
 
 //Basic setup to test couch
